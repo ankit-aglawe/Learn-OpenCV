@@ -1,2 +1,2 @@
-# Learn-OpenCV-
+# Learn-OpenCV
 OpenCV Tutorials and Projects 
