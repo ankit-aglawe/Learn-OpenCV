@@ -1,2 +1,2 @@
 # Learn-OpenCV
-:pushpin:OpenCV Tutorials and Projects 
+:pushpin: OpenCV Tutorials and Projects 
